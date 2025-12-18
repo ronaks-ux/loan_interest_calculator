@@ -16,3 +16,4 @@ A simple Python project to calculate:
 
 ```bash
 python loan_calculator.py
+python interest_calculator.py
