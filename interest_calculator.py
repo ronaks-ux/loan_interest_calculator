@@ -1,5 +1,3 @@
----
-
 ## interest_calculator.py
 
 ```python
