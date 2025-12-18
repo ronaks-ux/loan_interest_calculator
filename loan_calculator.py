@@ -1,5 +1,3 @@
----
-
 ## loan_calculator.py
 
 ```python
